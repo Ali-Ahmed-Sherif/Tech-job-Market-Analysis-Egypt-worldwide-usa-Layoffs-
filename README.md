@@ -1,0 +1,2 @@
+# Tech-job-Market-Analysis-Egypt-worldwide-usa-Layoffs-
+Tech Job Market Analysis &amp; Recommendation System – An end-to-end data analytics project analyzing tech job trends, salaries, and layoffs using data from 7 job platforms (600k+ records). Includes data cleaning, Galaxy Schema modeling in Power BI, interactive dashboards, and a Wuzzuf-based job recommender using TF-IDF and cosine similarity.
